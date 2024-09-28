@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer)](https://git.io/typing-svg)
 <!--
 **atipaq/atipaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
