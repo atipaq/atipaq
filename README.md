@@ -37,12 +37,12 @@
 <h3>🧰 Frameworks and Libraries</h3>
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![NodeJS](https://img.shields.io/badge/-node.js-000?&logo=node.js)
+![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Xcode](https://img.shields.io/badge/-Xcode-000?&logo=Xcode)
-![Android Studio](https://img.shields.io/badge/-android%20studio-000?&logo=android%20studio)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=android%20studio)
 ![Django](https://img.shields.io/badge/-django-000?&logo=django)
-![React](https://img.shields.io/badge/-react-000?&logo=reac)
-![Spring](https://img.shields.io/badge/-spring-000?&logo=spring)
+![React](https://img.shields.io/badge/-React-000?&logo=reac)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=spring)
 
 <h2 align="left">My work<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=50px></h2>
  <!-- 
