@@ -41,7 +41,7 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-000?&logo=Xcode)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=android%20studio)
 ![Django](https://img.shields.io/badge/-django-000?&logo=django)
-![React](https://img.shields.io/badge/-React-000?&logo=reac)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=spring)
 
 <h2 align="left">My work<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=50px></h2>
