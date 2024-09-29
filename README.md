@@ -5,12 +5,11 @@
 
 <h2 align="left">About me<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
 <pre>
-💻 Full Stack Developer
+💻 Full Stack Developer <!-- 🌟 Expertise in Golang, TypeScript, and Rust -->
 📝 My most recent Project: Check this out <a href="https://github.com/atipaq/L-athelier-back/" target="_blank">PROJECT</a>
-<!-- 🌟 Expertise in Golang, TypeScript, and Rust -->
 🚩 Strong preference for compiled languages
 🤔 Actively seeking <b>new</b> jobs opportunieties: Check out <a href="" target="_blank">MY RESUME.</a>
- 
+
   <details close> 
   <summary>📷 A picture is worth a thousand words></summary>
     <div align="center">
