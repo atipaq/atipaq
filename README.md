@@ -11,7 +11,7 @@
 🤔 Actively seeking <b>new</b> jobs opportunieties: Check out <a href="" target="_blank">MY RESUME.</a>
 
   <details close> 
-  <summary>📷 A picture is worth a thousand words></summary>
+  <summary>📷 A picture is worth a thousand words</summary>
     <div align="center">
           <img hight="400" width="500" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
     </div>
@@ -23,24 +23,21 @@
 <h3>💻 Languages</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=orange)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C](https://img.shields.io/badge/-C-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![Kotlin](https://img.shields.io/badge/-kotlin-000?&logo=Kotlin)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 <h3>🧰 Frameworks and Libraries</h3>
 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Xcode](https://img.shields.io/badge/-Xcode-000?&logo=Xcode)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=android%20studio)
 ![Django](https://img.shields.io/badge/-django-000?&logo=django)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=spring)
 
 <h2 align="left">My work<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=50px></h2>
