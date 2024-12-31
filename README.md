@@ -26,7 +26,6 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=orange)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Kotlin](https://img.shields.io/badge/-kotlin-000?&logo=Kotlin)
