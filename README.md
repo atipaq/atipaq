@@ -49,19 +49,3 @@
 [![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
 [![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
 -->
-
-<h2>⚡ Stats and Activity</h2>
- <!--  Themes
-https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
--->
-<h3>🔥 Streak Stats</h3>
-<div align="center" > 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atipaq&theme=react" width="49%"/>
-</div>
-
-<h3>🔥 GitHub Profile Stats</h2>
-<div align="center" > 
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=atipaq&show_icons=true&locale=en&theme=react" />
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=atipaq&layout=compact&theme=react"/>
-</div>
-
